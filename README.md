@@ -12,4 +12,3 @@ While working on this project the team will have full access to Azure resources,
 - A shipped Microsoft Teams extension
 - A backend service to support the extension
 - Tests for all service code
-
